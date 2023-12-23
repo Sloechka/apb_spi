@@ -25,7 +25,7 @@ SPI Flash, датчики, экраны и пр.
 
 # Структурная схема
 
-![scheme]("images/apb_spi.drawio.png")
+![scheme](images/apb_spi.drawio.png)
 
 # Описание интерфейсов блока
 
